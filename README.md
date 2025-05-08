@@ -53,8 +53,7 @@ I'm a beginner, and I'm using simple tools and methods to understand and control
 
 ## TrackerControl Results
 
-### TrackerControl WhatsApp
-![TrackerControl WhatsApp](screenshots/Screenshot_WhatsApp.png)
+![TrackerControl WhatsApp](screenshots/Screenshot_2025-05-08-12-07-50-15.png)
 
 - **Internet Access:** Enabled  
 - **Detected Tracker Libraries:** None  
