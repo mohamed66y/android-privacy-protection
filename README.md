@@ -51,15 +51,38 @@ I'm a beginner, and I'm using simple tools and methods to understand and control
 
 ## Notes
 
-This project is personal and educational. I'm learning GitHub, Android privacy, and how to stay safe online using only my phone.
-## TrackerControl
-![TrackerControl WhatsApp](./screenshots/trackercontrol-whatsapp.png)  
-### TrackerControl Facebook Lite![TrackerControl Facebook Lite](screenshots/trackercontrol-facebook-lite.png)
+## TrackerControl Results
+
+### TrackerControl WhatsApp
+![TrackerControl WhatsApp](screenshots/Screenshot_WhatsApp.png)
+
 - **Internet Access:** Enabled  
 - **Detected Tracker Libraries:** None  
 - **Monitoring:** Enabled
-**Internet Access:** Enabled  
-**Detected Tracker Libraries:** None
-### Example: TrackerControl
 
-![TrackerControl Screenshot](screenshots/Screenshot_2025-05-08-11-45-33-13.png)
+---
+
+### TrackerControl Facebook Lite
+![TrackerControl Facebook Lite](screenshots/Screenshot_FacebookLite.png)
+
+- **Internet Access:** Enabled  
+- **Detected Tracker Libraries:** None  
+- **Monitoring:** Enabled
+
+---
+
+### TrackerControl Gmail
+![TrackerControl Gmail](screenshots/Screenshot_Gmail.png)
+
+- **Internet Access:** Enabled  
+- **Detected Tracker Libraries:** None  
+- **Monitoring:** Enabled
+
+---
+
+### TrackerControl Google Chrome
+![TrackerControl Google Chrome](screenshots/Screenshot_Chrome.png)
+
+- **Internet Access:** Enabled  
+- **Detected Tracker Libraries:** None  
+- **Monitoring:** Enabled
