@@ -54,10 +54,7 @@ I'm a beginner, and I'm using simple tools and methods to understand and control
 This project is personal and educational. I'm learning GitHub, Android privacy, and how to stay safe online using only my phone.
 ## TrackerControl
 ![TrackerControl WhatsApp](./screenshots/trackercontrol-whatsapp.png)  
-### TrackerControl Facebook Lite
-
-![TrackerControl Facebook Lite](./screenshots/trackercontrol-facebook-lite.png)
-
+### TrackerControl Facebook Lite![TrackerControl Facebook Lite](screenshots/trackercontrol-facebook-lite.png)
 - **Internet Access:** Enabled  
 - **Detected Tracker Libraries:** None  
 - **Monitoring:** Enabled
