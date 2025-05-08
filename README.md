@@ -48,7 +48,7 @@ I'm a beginner, and I'm using free, open-source tools that work without root acc
 ---
 
 ## Current Screenshot
-![Privacy Tools Screenshot](/Screenshot_2025-05-08-14-23-49-89.png)
+![Privacy Tools Screenshot](./Screenshot_2025-05-08-14-23-49-89.png)
 *This screenshot shows the privacy tools installed: PCAPdroid, NetGuard, and TrackerControl.*
 
 *This screenshot shows the privacy tools installed: PCAPdroid, NetGuard, and TrackerControl.*
