@@ -62,6 +62,14 @@ I'm a beginner, and I'm using free, open-source tools that work without root acc
 - [ ] Build a custom privacy dashboard
 
 ---
+## Next Steps
+
+- تجربة تشغيل الأدوات الثلاثة (PCAPdroid، NetGuard، TrackerControl) في نفس الوقت.
+- مراقبة التطبيقات التي تحاول الاتصال بالإنترنت بدون إذن.
+- تسجيل ومقارنة نتائج الأدوات المختلفة لمعرفة أيها الأفضل.
+- اختبار أدوات جديدة لحماية الخصوصية لاحقًا.
+- البحث عن طرق لتقليل التتبع بدون الحاجة لعمل روت للهاتف.
+- تحديث هذا الملف بكل خطوة جديدة يتم تنفيذها.
 
 ## Notes
 
