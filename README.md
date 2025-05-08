@@ -1,4 +1,4 @@
-# Android Privacy Protection – Oppo A5s (Android 8.1)
+ki# Android Privacy Protection – Oppo A5s (Android 8.1)
 
 This project documents my personal journey to protect my Android phone (Oppo A5s – Android 8.1) from tracking and spying.  
 I'm a beginner, and I'm using simple tools and methods to understand and control what's happening on my phone.
@@ -53,11 +53,7 @@ I'm a beginner, and I'm using simple tools and methods to understand and control
 
 This project is personal and educational. I'm learning GitHub, Android privacy, and how to stay safe online using only my phone.
 ## TrackerControl
-
-![TrackerControl WhatsApp](./screenshots/trackercontrol-whatsapp.jpg)
-
-**App:** WhatsApp  
-**Monitoring:** Enabled  
+![TrackerControl WhatsApp](./screenshots/trackercontrol-whatsapp.png)  
 **Internet Access:** Enabled  
 **Detected Tracker Libraries:** None
 ### Example: TrackerControl
