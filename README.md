@@ -52,3 +52,11 @@ I'm a beginner, and I'm using simple tools and methods to understand and control
 ## Notes
 
 This project is personal and educational. I'm learning GitHub, Android privacy, and how to stay safe online using only my phone.
+## TrackerControl
+
+![TrackerControl WhatsApp](./screenshots/trackercontrol-whatsapp.jpg)
+
+**App:** WhatsApp  
+**Monitoring:** Enabled  
+**Internet Access:** Enabled  
+**Detected Tracker Libraries:** None
