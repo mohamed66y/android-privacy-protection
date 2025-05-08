@@ -60,3 +60,6 @@ This project is personal and educational. I'm learning GitHub, Android privacy, 
 **Monitoring:** Enabled  
 **Internet Access:** Enabled  
 **Detected Tracker Libraries:** None
+### Example: TrackerControl
+
+![TrackerControl Screenshot](screenshots/Screenshot_2025-05-08-11-45-33-13.png)
