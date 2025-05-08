@@ -51,8 +51,7 @@ I'm a beginner, and I'm using simple tools and methods to understand and control
 
 ## Notes
 
-## TrackerControl Results
-
+## TrackerControl Result
 ![TrackerControl WhatsApp](screenshots/Screenshot_2025-05-08-12-07-50-15.png)
 
 - **Internet Access:** Enabled  
